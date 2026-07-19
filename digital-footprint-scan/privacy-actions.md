@@ -39,10 +39,16 @@ Your home address is the #1 field brokers publish, so kill the visual too.
 
 ---
 
-## ▶️ Only you can unblock these (2 min to gather)
-- [ ] **Old email addresses** → run each at https://haveibeenpwned.com/ ; rotate/2FA any reused passwords. *(Only your current gmail is known.)*
-- [ ] **Old Facebook + Myspace usernames** → lets us check Wayback + archive.today for old-profile snapshots. *(Name searches are already clean; this closes the loop.)*
-- [ ] Old **phone numbers** + **prior street addresses** → sharpen broker record-matching.
+## ▶️ Browser-only checks — 5 minutes (sandbox is blocked from all of these)
+Handles/emails provided and swept — all clean so far. These close the loop:
+- [ ] **Breach check (the one with real risk)** → run each at https://haveibeenpwned.com/ , then **rotate any reused passwords + turn on 2FA**:
+  - darnall.bailey@gmail.com
+  - william.bailey21@gmail.com
+  - bigbruiserdb86@hotmail.com *(confirm the domain — could be @live/@msn)*
+  - your old USC `@email.sc.edu` *(if you recall the username)*
+- [ ] **Old Myspace profile still live?** → visit https://myspace.com/dbaileylax and https://myspace.com/dbaileylax21
+- [ ] **Archive snapshots?** → visit web.archive.org/web/*/facebook.com/dbaileylax (also /dbaileylax21 and myspace.com/dbaileylax). If a snapshot exists and you want it gone, email info@archive.org.
+- [ ] *(Optional)* dig up old **phone numbers** + **prior addresses** to sharpen broker record-matching.
 
 ---
 

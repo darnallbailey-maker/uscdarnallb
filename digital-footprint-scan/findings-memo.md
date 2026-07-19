@@ -32,9 +32,15 @@ Searching "Darnall Bailey" surfaces a lot of **wrong-person noise**, which works
 
 ## 2. Old personal content (the original worry) — CLEAN
 
-- **Facebook (deleted account):** No indexed residue under the name. Cannot check the **Wayback Machine / archive.today** for an old profile snapshot **without the old FB vanity username** — that's an open item for you. Deleted ≠ un-archived, so this check still matters.
-- **Myspace (lost login):** No indexed residue under the name. Same blocker — need the old Myspace handle to check archives.
-- **Recommendation:** Provide old usernames so the archive check can actually run. If a snapshot exists, we request exclusion via `info@archive.org` (Wayback) or archive.today's removal contact. If none exists (likely), close this out.
+**Handles provided (7/19) and swept:** `uscdarnallb`, `dbaileylax`, `dbaileylax21`, `bigbruiserdb86`.
+- **Username sweep — CLEAN.** None of the handles return public/indexed residue anywhere — social, forums, photo sites. `bigbruiserdb86` is distinctive enough that its total absence is strong evidence nothing's floating around. The only "dbailey" Myspace hit belongs to a different person (Danielle Bailey).
+- **Facebook (deleted account):** no indexed residue under name or handle.
+- **Myspace (lost login):** no indexed residue. A live-but-unindexed profile at `myspace.com/dbaileylax` can't be ruled out from here — the site 403s automated reads (bot-block, which is *inconclusive*, not "gone").
+- **Still needs a browser (3 quick checks — this sandbox is blocked from all three):**
+  1. `myspace.com/dbaileylax` and `/dbaileylax21` — is an old profile still live?
+  2. `web.archive.org/web/*/facebook.com/dbaileylax` (+ `/dbaileylax21`, + `myspace.com/dbaileylax`) — any archived snapshot?
+  3. If any snapshot exists and you want it gone: request exclusion via `info@archive.org`.
+- **Expectation:** near-certainly clean given the sweep. These three checks just close the loop.
 
 ---
 
@@ -75,13 +81,13 @@ Expected exposure on these (typical record): name, age/DOB, current + prior addr
 
 ---
 
-## 6. Blocked — need your input (highest leverage)
+## 6. Identifiers — provided, mostly resolved (7/19)
 
-1. **Old email addresses** → run each through **haveibeenpwned.com**, note breaches, rotate/2FA any reused passwords. *(Only your current gmail is known.)*
-2. **Old Facebook + Myspace usernames** → run the Wayback + archive.today checks that are currently impossible without them.
-3. **Old phone numbers + prior street addresses** → sharpen broker record-matching and catch listings that don't surface under the current name.
+- **Old usernames** → provided (`uscdarnallb`, `dbaileylax`, `dbaileylax21`, `bigbruiserdb86`) and swept. **Clean** (§2). Three browser-only archive/live-profile checks remain to close the loop.
+- **Old emails** → provided: `darnall.bailey@gmail.com`, `william.bailey21@gmail.com`, `bigbruiserdb86@hotmail.com` (confirm domain), plus an old **USC `@email.sc.edu`** (username forgotten). **To do:** run each at **haveibeenpwned.com** (needs an interactive run — can't fetch server-side here), note breaches, and **rotate/2FA any reused passwords**. This is the one item with real residual risk — old breached passwords, not old posts.
+- **Still helpful:** old **phone numbers** + **prior street addresses** → sharpen broker record-matching on the opt-outs.
 
-Per your brief: "these matter more than the name — brokers and archives key off them." Confirmed. The name-only pass is largely exhausted; identifiers are the unlock.
+Net: the name/handle residue picture is clean. The meaningful remaining action is the **breach/password check**, not old social content.
 
 ---
 
