@@ -10,9 +10,9 @@ A public-residue sweep + data-broker opt-out kit. Built to be **rerun quarterly*
 | `tracker.csv` | The master log: source, URL, data exposed, risk, opt-out link, status, date. Re-run against this. |
 
 ## Scope decision (owner, 2026-07-19)
-- **KEEP (fine for work):** LinkedIn, WDG team page, Boyd Foundation page.
+- **KEEP:** LinkedIn, WDG team page, Boyd Foundation page, Instagram, YouTube.
 - **DELETE:** all people-search brokers, ZoomInfo, old-archive residue.
-- **EVALUATE (accounts you control):** Flickr, Zola, Instagram, YouTube, Who's On The Move (third-party — request removal), HIBP breach check.
+- **EVALUATE (accounts you control):** Flickr, Zola, HIBP breach check. (Who's On The Move = likely false positive, verify in browser.)
 
 ## Status at a glance (2026-07-19, first automated pass)
 - ✅ **Old FB/Myspace content:** no public/indexed residue. (Archive check still pending — needs old usernames.)

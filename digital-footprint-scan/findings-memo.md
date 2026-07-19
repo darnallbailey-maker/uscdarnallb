@@ -12,9 +12,9 @@ The old personal content you were worried about (college-era Facebook / Myspace)
 
 ## Scope decision (owner, 2026-07-19)
 
-**KEEP — fine for work, no action:** LinkedIn, WDG team page, Boyd Foundation page.
+**KEEP — no action:** LinkedIn, WDG team page, Boyd Foundation page, Instagram, YouTube.
 **DELETE — everything else you never chose to publish:** all people-search brokers + ZoomInfo + old-archive residue.
-**EVALUATE — accounts you control, your call to keep / privatize / delete:** Flickr, Zola, Instagram, YouTube, the Who's On The Move article (third-party — request removal), and the HIBP breach exposure.
+**EVALUATE — accounts you control, your call to keep / privatize / delete:** Flickr, Zola, and the HIBP breach exposure. (Who's On The Move = likely false positive — see §4.)
 
 Note: your personal **cell number is on the (kept) WDG page** — that's the main thing brokers re-scrape. You've chosen to keep the page; the *optional* source-level fix is swapping the cell for an office line so the broker cleanup stays clean. Entirely your call.
 
@@ -59,7 +59,7 @@ Neither was touched. Both are yours to close out directly.
 **DELETE / EVALUATE (moved out of "keep"):**
 - **ZoomInfo** — confirmed listing (work email pattern + phone). **Opt out** (Tier 1) and re-check quarterly; rebuilds from public sources.
 - **Who's On The Move** article — **likely a false positive.** Title + URL slug say "**George Bailey**," a different person at the Boyd Foundation; your name only matched via the "Darnall W. Boyd" foundation name + surname "Bailey." Site blocks automated fetch — do a 10-second browser check; if you're not named, drop it entirely.
-- **Instagram / YouTube** — active accounts you control. **Evaluate:** keep, set private, or delete. Not residue, not touched.
+- **Instagram / YouTube** — **KEEP** (owner confirmed). No action.
 
 ---
 
