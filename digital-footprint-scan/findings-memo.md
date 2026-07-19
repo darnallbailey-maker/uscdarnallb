@@ -58,7 +58,7 @@ Neither was touched. Both are yours to close out directly.
 
 **DELETE / EVALUATE (moved out of "keep"):**
 - **ZoomInfo** — confirmed listing (work email pattern + phone). **Opt out** (Tier 1) and re-check quarterly; rebuilds from public sources.
-- **Who's On The Move** article — third-party PR. **Request removal** via the site's contact; they may decline (editorial discretion).
+- **Who's On The Move** article — **likely a false positive.** Title + URL slug say "**George Bailey**," a different person at the Boyd Foundation; your name only matched via the "Darnall W. Boyd" foundation name + surname "Bailey." Site blocks automated fetch — do a 10-second browser check; if you're not named, drop it entirely.
 - **Instagram / YouTube** — active accounts you control. **Evaluate:** keep, set private, or delete. Not residue, not touched.
 
 ---
