@@ -8,7 +8,15 @@
 
 ## Bottom line
 
-The old personal content you were worried about (college-era Facebook / Myspace) shows **no public residue** — name searches are clean, and the account deletion appears to have stuck. The real, actionable exposure today is (1) a **direct cell number published on the WDG team page** that seeds the broker ecosystem, (2) a **confirmed ZoomInfo listing**, and (3) the standard swarm of people-search brokers that need per-site opt-outs. Three checks (Wayback/archive, email breach exposure) are **blocked until you provide old usernames and old email addresses** — those are the highest-leverage things you can hand over.
+The old personal content you were worried about (college-era Facebook / Myspace) shows **no public residue** — name searches are clean, and the account deletion appears to have stuck. The real, actionable exposure today is the standard swarm of people-search brokers that need per-site opt-outs, plus a **confirmed ZoomInfo listing**. Three checks (Wayback/archive, email breach exposure) are **blocked until you provide old usernames and old email addresses** — those are the highest-leverage things you can hand over.
+
+## Scope decision (owner, 2026-07-19)
+
+**KEEP — fine for work, no action:** LinkedIn, WDG team page, Boyd Foundation page.
+**DELETE — everything else you never chose to publish:** all people-search brokers + ZoomInfo + old-archive residue.
+**EVALUATE — accounts you control, your call to keep / privatize / delete:** Flickr, Zola, Instagram, YouTube, the Who's On The Move article (third-party — request removal), and the HIBP breach exposure.
+
+Note: your personal **cell number is on the (kept) WDG page** — that's the main thing brokers re-scrape. You've chosen to keep the page; the *optional* source-level fix is swapping the cell for an office line so the broker cleanup stays clean. Entirely your call.
 
 ---
 
@@ -41,13 +49,17 @@ Neither was touched. Both are yours to close out directly.
 
 ---
 
-## 4. Confirmed live — professional / first-party (decision needed)
+## 4. Professional / first-party
 
-- **WDG team page** — `wdgrep.com/team/darnall-bailey/` — publishes your **direct work email and cell number**. This is the single biggest *feeder* for data brokers (scrapers pull cell numbers straight off corporate bio pages). **Recommendation: remove the cell number** (or swap it for a main office line). Highest-leverage single fix in this whole report because it's under your control and stops re-population at the source.
-- **ZoomInfo** — confirmed listing exposing your work email pattern + phone. **Recommendation: opt out** (Tier 1 in the queue) and re-check quarterly; it rebuilds from public sources.
-- **Boyd Foundation "About" page** — `boydfoundationcolumbia.org/about/` — lists you as a board member. Name + role only, no PII. **Low risk; likely intentional. Leave** unless you specifically want it down.
-- **Who's On The Move** article — PR/announcement naming you re: the Boyd Foundation. Low risk. Leave.
-- **Instagram / LinkedIn / YouTube** — active, intentional. No action (per brief).
+**KEEP (owner confirmed — fine for work):**
+- **LinkedIn** — active professional profile. No action.
+- **WDG team page** — `wdgrep.com/team/darnall-bailey/`. Keep. Optional-only: the personal **cell number** on it is the main thing brokers re-scrape, so swapping it for an office line would make the broker cleanup stick. Your call; the page stays either way.
+- **Boyd Foundation "About" page** — `boydfoundationcolumbia.org/about/`. Board-member listing, name + role only. Keep.
+
+**DELETE / EVALUATE (moved out of "keep"):**
+- **ZoomInfo** — confirmed listing (work email pattern + phone). **Opt out** (Tier 1) and re-check quarterly; rebuilds from public sources.
+- **Who's On The Move** article — third-party PR. **Request removal** via the site's contact; they may decline (editorial discretion).
+- **Instagram / YouTube** — active accounts you control. **Evaluate:** keep, set private, or delete. Not residue, not touched.
 
 ---
 

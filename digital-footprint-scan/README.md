@@ -9,12 +9,16 @@ A public-residue sweep + data-broker opt-out kit. Built to be **rerun quarterly*
 | `opt-out-queue.md` | Prioritized, turnkey removal steps for each broker (nothing submitted yet). |
 | `tracker.csv` | The master log: source, URL, data exposed, risk, opt-out link, status, date. Re-run against this. |
 
+## Scope decision (owner, 2026-07-19)
+- **KEEP (fine for work):** LinkedIn, WDG team page, Boyd Foundation page.
+- **DELETE:** all people-search brokers, ZoomInfo, old-archive residue.
+- **EVALUATE (accounts you control):** Flickr, Zola, Instagram, YouTube, Who's On The Move (third-party — request removal), HIBP breach check.
+
 ## Status at a glance (2026-07-19, first automated pass)
 - ✅ **Old FB/Myspace content:** no public/indexed residue. (Archive check still pending — needs old usernames.)
-- ⚠️ **WDG team page** publishes a **direct cell number** — the top source-level leak. Recommend removing it.
-- ⚠️ **ZoomInfo** listing confirmed (work email + phone) — queued for opt-out.
+- ⏳ **14 people-search brokers + ZoomInfo** — opt-out processes researched & queued; the sites themselves must be checked/submitted in a **browser** (they block automated access).
 - 🔒 **Flickr + Zola** confirmed live — flagged, **not touched**; owner handles.
-- ⏳ **14 people-search brokers** — opt-out processes researched & queued; the sites themselves must be checked/submitted in a **browser** (they block automated access).
+- 📝 **WDG page kept** — optional-only: personal cell on it is the main broker re-scrape source; swap for an office line to make cleanup stick.
 - ⛔ **Blocked pending your input:** breach check (old emails) + Wayback/archive check (old usernames).
 
 ## Why some checks say "browser required"

@@ -85,6 +85,20 @@
 
 ---
 
+## Tier 3.5 — Owner-controlled (evaluate: keep / privatize / delete)
+
+These are accounts and pages you control or can request down — no broker process, just your decision.
+
+- **Flickr** — https://www.flickr.com/people/77733712@N06/ → Settings → Privacy & Permissions to hide, or delete the account. (527 public photos + bio.)
+- **Zola wedding site** — log in → take the site down or set it private. (Find URL: `zola.com/wedding/<slug>`.)
+- **Instagram** — decide keep / set private / delete in app settings.
+- **YouTube** — decide keep / set uploads private / delete in channel settings.
+- **Who's On The Move article** — https://whosonthemove.com/leadership-series-george-bailey-darnall-w-and-susan-f-boyd-foundation-inc/ → email the site's editorial/contact address requesting removal of your name. Third-party PR, so they may decline; low risk either way.
+
+**Kept (owner confirmed — no action):** LinkedIn, WDG team page, Boyd Foundation page. *(Optional only: swap the personal cell on the WDG page for an office line — it's the main field brokers re-scrape.)*
+
+---
+
 ## Tier 4 — Blocked pending your input (can't run without old identifiers)
 
 ### 14. Have I Been Pwned (breach exposure) — needs OLD email addresses
